@@ -1,3 +1,3 @@
 # git-practice
 
-main branch で編集(rebase conflict 用)
+rebase-practice branch で編集（rebase conflict 用）
