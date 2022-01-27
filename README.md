@@ -1,3 +1,3 @@
 # git-practice
 
-自分のリポジトリで更新
+rebase-practice branch で編集
